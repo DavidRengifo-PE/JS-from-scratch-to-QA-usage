@@ -1,0 +1,96 @@
+body{
+  font-family: montserrat;
+}
+.profile{
+  width: 200px;
+  border-radius: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+.profile2{
+  width: 200px;
+  object-fit: contain;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+.profile3{
+  width: 200px;
+  border-radius: 100px;
+  margin-bottom: 50px;
+}
+.textbox1{
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 0.5px;
+  border-color: rgb(121, 120, 120);
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+.textbox2{
+  width: 430px;
+  border-radius: 31px;
+  border-style: solid;
+  border:none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  padding: 15px;
+  padding-left:25px;
+  margin-left: 50px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.email{
+  color:rgb(90, 90, 90);
+  margin-bottom: 0px;
+}
+.textbox3{
+  width: 320px;
+  margin-top: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 3px;
+  border-color: black;
+  padding: 5px;
+  margin-bottom: 0px;
+}
+.description{
+  margin-top: 20px;
+  font-size: 13px;
+  color:rgb(90, 90, 90);
+}
+.join-btn{
+  width: 332px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  border-radius: 20px;
+  background-color: rgb(3, 100, 227);
+  color: white;
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+.profile4{
+  width: 40px;
+  border-radius: 18px;
+  vertical-align: middle;
+}
+.textbox4{
+  width: 200px;
+  padding: 5px;
+  border: none;
+  vertical-align: middle;
+}
+.tw-btn{
+  padding: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 15px;
+  border: none;
+  background-color: rgb(0, 157, 255);
+  color: white;
+  font-weight: 700;
+  font-size: 13px;
+  vertical-align: middle;
+}

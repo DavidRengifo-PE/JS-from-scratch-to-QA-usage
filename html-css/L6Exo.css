@@ -1,0 +1,19 @@
+p{
+  font-family: montserrat;
+  margin-bottom: 0px;
+}
+
+.title{
+  font-size: 35px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.descr{
+  text-align: center;
+  margin-top: 5px;
+}
+
+.link{
+  text-decoration: underline;
+}
