@@ -1,0 +1,181 @@
+body{
+  font-family: arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.red{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+.green{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(4, 182, 34);
+  display: inline-block;
+  border-radius: 50px;
+  margin-bottom: 30px;
+}
+
+.feedback{
+  width: 220px;
+  border-color: rgb(163, 163, 163);
+  border-style: solid;
+  padding: 10px;
+}
+
+.text1{
+  margin-top: 4px;
+}
+
+.ad{
+  Width: 385px;
+  background-color: rgb(40, 40, 40);
+}
+
+.text2{
+  padding-top: 18px;
+  padding-left: 15px;
+  margin-bottom: 0px;
+  color: rgb(238, 238, 238);
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.text3{
+  padding: 15px;
+  margin-top: 0px;
+  font-size: 16px;
+  color: rgb(126, 126, 126)
+}
+
+.status-box{
+  width: 320px;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  padding: 10px;
+}
+
+.profile1{
+  width: 40px;
+  border-radius: 18px;
+  vertical-align: middle;
+}
+.status-field{
+  width: 200px;
+  padding: 5px;
+  border: none;
+  vertical-align: middle;
+}
+.tw-btn{
+  padding: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 15px;
+  border: none;
+  background-color: rgb(0, 157, 255);
+  color: white;
+  font-weight: 700;
+  font-size: 13px;
+  vertical-align: middle;
+}
+
+.friend{
+  display: inline-block;
+  width: 180px;
+  margin-right: 15px;
+  border: none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  margin-top: 50px;
+}
+
+.profile2{
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+}
+
+.name{
+  padding-left: 10px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.description{
+  padding-left: 10px;
+  margin-top: 5px;
+  font-size: 13px;
+  color: rgb(87, 87, 87);
+}
+
+.add-btn{
+  width: 100px;
+  padding: 8px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(0, 123, 237);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+  transition: background-color 0.2s, width 0.2s, font-weight 0.2s;
+}
+.add-btn:hover{
+  background-color: rgb(36, 144, 246);
+  width: 160px;
+}
+.add-btn:active{
+  background-color: rgb(79, 169, 253);
+  font-weight: 700;
+}
+
+.google-search{
+  text-align: center;
+}
+
+.google-search2{
+  text-align: center;
+}
+
+.google-search3{
+  text-align: center;
+}
+
+.logo{
+  width: 300px;
+  margin-top: 100px;
+}
+
+.tbox3{
+  width: 580px;
+  padding: 10px;
+  padding-left: 15px;
+  border-radius: 30px;
+  border: none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  margin-top: 5px;
+  font-size: 18px;
+  margin-bottom: 0px;
+}
+
+.searchlucky-btn{
+  margin-top: 40px;
+  margin-bottom: 100px;
+  margin-right: 10px;
+  background-color: rgb(243, 240, 240);
+  border: none;
+  padding: 10px;
+  width: 130px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+.searchlucky-btn:active{
+  background-color: rgb(209, 207, 207);
+}

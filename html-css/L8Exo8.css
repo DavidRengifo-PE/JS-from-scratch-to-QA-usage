@@ -1,0 +1,135 @@
+body{
+  font-family: montserrat;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.tbox1,
+.tbox2{
+  display: block;
+  margin-bottom: 10px;
+}
+
+.text{
+  width: 239px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.btn1,
+.btn2{
+  cursor: pointer;
+}
+
+.logo{
+  width: 400px;
+  margin-left: 100px;
+}
+
+.tbox3{
+  width: 580px;
+  display: block;
+  padding: 10px;
+  padding-left: 15px;
+  border-radius: 30px;
+  border: none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  margin-top: 5px;
+  font-size: 18px;
+  margin-bottom: 100px;
+}
+
+.tbox4,
+.tbox5{
+  padding: 10px;
+  padding-left: 15px;
+  border-radius: 8px;
+  border-width: 1px;
+  border-color: rgb(157, 157, 157);
+  border-style: solid;
+}
+
+.tbox6{
+  width: 309px;
+  display: block;
+  margin-top: 8px;
+  padding: 10px;
+  padding-left: 15px;
+  border-radius: 8px;
+  border-width: 1px;
+  border-color: rgb(157, 157, 157);
+  border-style: solid;
+}
+
+.btn3{
+  margin-bottom: 30px;
+  margin-top: 8px;
+  width: 336px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  background-color: rgb(27, 124, 227);
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.btn3:active{
+  background-color: rgb(11, 87, 168);;
+}
+
+.text2{
+  font-family: roboto;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.tbox7,
+.tbox8{
+  display: block;
+  margin-top: 5px;
+  background-color: rgb(232, 230, 230);
+  border:none;
+  padding: 10px;
+  padding-left: 18px;
+  width: 270px;
+  font-size: 11px;
+}
+
+.btn4{
+  margin-top: 25px;
+  margin-right: 10px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  border:none;
+  padding: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
+  font-size: 11px;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s, font-size 0.2s;
+}
+
+.btn4:active{
+  background-color: rgb(156, 156, 156);
+  color: black;
+}
+.btn5{
+  margin-top: 25px;
+  background-color: rgb(232, 230, 230);
+  color: rgb(0, 0, 0);
+  border:none;
+  padding: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
+  font-size: 11px;
+  cursor: pointer;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.btn5:active{
+  background-color: rgb(148, 148, 148);
+  color: rgb(255, 255, 255);
+}
