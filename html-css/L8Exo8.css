@@ -25,6 +25,7 @@ body{
 .logo{
   width: 400px;
   margin-left: 100px;
+  display: block;
 }
 
 .tbox3{
